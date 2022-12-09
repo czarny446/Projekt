@@ -29,7 +29,7 @@
  <br/>
  <br/>
  <center>
-	<a href="dodawanie_książek.php"><button class="button-6">Dodaj książkę</button></a>
+	<a href="dodawanie_ksiazek.php"><button class="button-6">Dodaj książkę</button></a>
 	<br/>
 	<br/>
 	<a href="dodawanie_książek.php"><button class="button-6">Dodawanie wyporzyczenia</button></a>
